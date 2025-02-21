@@ -1,0 +1,10 @@
+Libraries
+
+Servlet 4.0.1
+jstl 1.2
+MySQL Connecter 9.2.0
+
+Environment
+
+Dynamic Web Module 4.0
+Apache Tomcat v9.0
